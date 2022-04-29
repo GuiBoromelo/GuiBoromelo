@@ -7,7 +7,7 @@
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiBoromelo&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBoromelo)](https://github.com/GuiBoromelo/github-readme-stats)
+<img height="163px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanLumie&layout=compact&langs_count=16&theme=dracula"/>
 
 ## Linguagens que uso no dia a dia 💻
 
@@ -15,7 +15,7 @@
   <img align="center" alt="Pyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanLumie&layout=compact&langs_count=16&theme=dracula"/>
+  
   </div><br/>
 
 Apaixonado por tecnologia e sempre pronto para novos desafios. 💻 🖱️
