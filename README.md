@@ -7,7 +7,7 @@
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiBoromelo&show_icons=true&theme=dark)
 
-<img height="163px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanLumie&layout=compact&langs_count=16&theme=dracula"/>
+<img height="163px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanLumie&layout=compact&langs_count=16&theme=dark"/>
 
 ## Linguagens que uso no dia a dia 💻
 
